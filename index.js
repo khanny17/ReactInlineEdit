@@ -9,6 +9,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
+_react2.default.PropTypes = require('prop-types');
 
 var _reactDom = require('react-dom');
 
